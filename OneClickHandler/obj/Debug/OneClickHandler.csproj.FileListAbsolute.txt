@@ -1,0 +1,10 @@
+C:\Users\kira0001\source\repos\OneClickHandler\OneClickHandler\bin\Debug\OneClickHandler.exe.config
+C:\Users\kira0001\source\repos\OneClickHandler\OneClickHandler\bin\Debug\OneClickHandler.exe
+C:\Users\kira0001\source\repos\OneClickHandler\OneClickHandler\bin\Debug\OneClickHandler.pdb
+C:\Users\kira0001\source\repos\OneClickHandler\OneClickHandler\obj\Debug\OneClickHandler.Form1.resources
+C:\Users\kira0001\source\repos\OneClickHandler\OneClickHandler\obj\Debug\OneClickHandler.Properties.Resources.resources
+C:\Users\kira0001\source\repos\OneClickHandler\OneClickHandler\obj\Debug\OneClickHandler.csproj.GenerateResource.Cache
+C:\Users\kira0001\source\repos\OneClickHandler\OneClickHandler\obj\Debug\OneClickHandler.csproj.CoreCompileInputs.cache
+C:\Users\kira0001\source\repos\OneClickHandler\OneClickHandler\obj\Debug\OneClickHandler.exe
+C:\Users\kira0001\source\repos\OneClickHandler\OneClickHandler\obj\Debug\OneClickHandler.pdb
+C:\Users\kira0001\source\repos\OneClickHandler\OneClickHandler\obj\Debug\OneClickHandler.csprojResolveAssemblyReference.cache
