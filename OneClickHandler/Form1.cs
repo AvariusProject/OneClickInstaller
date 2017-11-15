@@ -17,6 +17,9 @@ namespace OneClickHandler
         public Form1()
         {
             InitializeComponent();
+            Prequisite.Prequisite pre = new Prequisite.Prequisite();
+            Task checkPre = new Task(pre.PreWorker);
+            checkPre.Start();
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -62,10 +65,18 @@ namespace OneClickHandler
 
         private void button2_Click(object sender, EventArgs e)
         {
-            string cmakeCommand = "cmake";
-            string cmakeArgument = @" .\TrinityCore\ -DCMAKE_INSTALL_PREFIX="+ System.Reflection.Assembly.GetExecutingAssembly().Location + "\\cmake ";
+            try
+            {
+                string cmakeCommand = "cmake";
+                string cmakeArgument = @" .\TrinityCore\ -DCMAKE_INSTALL_PREFIX=" + System.Reflection.Assembly.GetExecutingAssembly().Location + "\\cmake ";
 
-            Process.Start(cmakeCommand, cmakeArgument);
+                Process.Start(cmakeCommand, cmakeArgument);
+            }
+
+            catch
+            {
+                MessageBox.Show("Error executing cMake!");
+            }
             
         }
 

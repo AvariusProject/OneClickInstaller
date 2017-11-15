@@ -8,3 +8,12 @@ C:\Users\kira0001\source\repos\OneClickHandler\OneClickHandler\obj\Debug\OneClic
 C:\Users\kira0001\source\repos\OneClickHandler\OneClickHandler\obj\Debug\OneClickHandler.exe
 C:\Users\kira0001\source\repos\OneClickHandler\OneClickHandler\obj\Debug\OneClickHandler.pdb
 C:\Users\kira0001\source\repos\OneClickHandler\OneClickHandler\obj\Debug\OneClickHandler.csprojResolveAssemblyReference.cache
+C:\Users\rapha\Documents\OneClickInstaller\OneClickHandler\bin\Debug\OneClickHandler.exe.config
+C:\Users\rapha\Documents\OneClickInstaller\OneClickHandler\bin\Debug\OneClickHandler.exe
+C:\Users\rapha\Documents\OneClickInstaller\OneClickHandler\bin\Debug\OneClickHandler.pdb
+C:\Users\rapha\Documents\OneClickInstaller\OneClickHandler\obj\Debug\OneClickHandler.csprojResolveAssemblyReference.cache
+C:\Users\rapha\Documents\OneClickInstaller\OneClickHandler\obj\Debug\OneClickHandler.Form1.resources
+C:\Users\rapha\Documents\OneClickInstaller\OneClickHandler\obj\Debug\OneClickHandler.Properties.Resources.resources
+C:\Users\rapha\Documents\OneClickInstaller\OneClickHandler\obj\Debug\OneClickHandler.csproj.GenerateResource.Cache
+C:\Users\rapha\Documents\OneClickInstaller\OneClickHandler\obj\Debug\OneClickHandler.exe
+C:\Users\rapha\Documents\OneClickInstaller\OneClickHandler\obj\Debug\OneClickHandler.pdb
